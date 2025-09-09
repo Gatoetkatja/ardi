@@ -2,7 +2,7 @@ name: Flutter Build and Release on Main Branch Update
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build_and_release_on_main:
