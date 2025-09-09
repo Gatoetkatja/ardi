@@ -175,7 +175,7 @@ class ResultPage extends StatelessWidget {
               ),
             ),
             ResultCard(
-              title: styleData['title']!,
+              title: styleData['titlessssssssssssssssssssssssssssssssssssssssss']!,
               description: styleData['description']!,
               characteristics: styleData['characteristics']!,
               tips: styleData['tipss']!,
@@ -201,3 +201,7 @@ class ResultPage extends StatelessWidget {
     );
   }
 }
+
+
+
+
