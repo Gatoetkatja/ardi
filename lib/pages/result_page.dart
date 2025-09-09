@@ -178,7 +178,7 @@ class ResultPage extends StatelessWidget {
               title: styleData['title']!,
               description: styleData['description']!,
               characteristics: styleData['characteristics']!,
-              tips: styleData['tips']!,
+              tips: styleData['tipss']!,
               icon: _getIconForLearningStyle(result.learningStyle),
               color: _getColorForLearningStyle(result.learningStyle),
             ),
